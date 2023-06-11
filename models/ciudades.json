@@ -1,0 +1,72 @@
+[
+  {
+    "ciudad": "Roma",
+    "fundacion": 753,
+    "lugar_emblematico": "Coliseo Romano"
+  },
+  {
+    "ciudad": "Atenas",
+    "fundacion": -1400,
+    "lugar_emblematico": "Acrópolis"
+  },
+  {
+    "ciudad": "El Cairo",
+    "fundacion": 969,
+    "lugar_emblematico": "Las Pirámides de Giza"
+  },
+  {
+    "ciudad": "París",
+    "fundacion": -52,
+    "lugar_emblematico": "Torre Eiffel"
+  },
+  {
+    "ciudad": "Londres",
+    "fundacion": 43,
+    "lugar_emblematico": "Palacio de Buckingham"
+  },
+  {
+    "ciudad": "Nueva York",
+    "fundacion": 1624,
+    "lugar_emblematico": "Estatua de la Libertad"
+  },
+  {
+    "ciudad": "Tokio",
+    "fundacion": 1457,
+    "lugar_emblematico": "Torre de Tokio"
+  },
+  {
+    "ciudad": "Moscú",
+    "fundacion": 1147,
+    "lugar_emblematico": "Plaza Roja"
+  },
+  {
+    "ciudad": "Sídney",
+    "fundacion": 1788,
+    "lugar_emblematico": "Ópera de Sídney"
+  },
+  {
+    "ciudad": "Río de Janeiro",
+    "fundacion": 1565,
+    "lugar_emblematico": "Cristo Redentor"
+  },
+  {
+    "ciudad": "Ciudad de México",
+    "fundacion": 1325,
+    "lugar_emblematico": "Templo Mayor"
+  },
+  {
+    "ciudad": "Pekín",
+    "fundacion": -1045,
+    "lugar_emblematico": "La Gran Muralla China"
+  },
+  {
+    "ciudad": "Berlín",
+    "fundacion": 1237,
+    "lugar_emblematico": "Puerta de Brandeburgo"
+  },
+  {
+    "ciudad": "Estambul",
+    "fundacion": 660,
+    "lugar_emblematico": "Santa Sofía"
+  }
+]

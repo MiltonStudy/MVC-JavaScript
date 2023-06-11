@@ -1,0 +1,43 @@
+[
+  {
+    "nombrePais": "Colombia",
+    "capital": "Bogotá",
+    "poblacion": 45.13
+  },
+  {
+    "nombrePais": "Peru",
+    "capital": "Lima",
+    "poblacion": 38.35
+  },
+  {
+    "nombrePais": "Ecuador",
+    "capital": "Quito",
+    "poblacion": 17.63
+  },
+
+  {
+    "nombrePais": "Argentina",
+    "capital": "Buenos Aires",
+    "poblacion": 23.45
+  },
+  {
+    "nombrePais": "Uruguay",
+    "capital": "Montevideo",
+    "poblacion": 6.54
+  },
+  {
+    "nombrePais": "Paraguay",
+    "capital": "Asuncion",
+    "poblacion": 15.25
+  },
+  {
+    "nombrePais": "Brasil",
+    "capital": "Brasilia",
+    "poblacion": 70.53
+  },
+  {
+    "nombrePais": "Venezuela",
+    "capital": "Caracas",
+    "poblacion": 40.23
+  }
+]
